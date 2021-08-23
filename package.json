@@ -1,0 +1,21 @@
+{
+  "name": "jonportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "chokidar": "^3.5.2",
+    "esbuild": "^0.12.22",
+    "liveserver": "^0.1.20",
+    "node": "^16.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node bld/build.js"
+  },
+  "author": "jon",
+  "license": "ISC"
+}
